@@ -1,0 +1,37 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+h1{
+    color: black; 
+    /* background-color: gray; */
+    font-size: 96px;
+    font-weight: 900;
+    text-transform: capitalize;
+    text-align: center;
+    font-family: 'Comic Neue', cursive;
+}
+
+h2{
+    padding: 20px;
+}
+
+p{
+    padding: 20px;
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 90px;
+}
+
+.bg{
+    height: 500px;
+    width: 100%;
+    background-color: aqua;
+    background-image: url('https://images.unsplash.com/photo-1684690640456-381bc7183e86?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=988&q=80');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+}
