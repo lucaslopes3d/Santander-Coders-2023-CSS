@@ -1,0 +1,27 @@
+/* *{
+    padding: 0;
+    margin: 0;
+} */
+
+.tabela{
+    border: 1px solid black;
+    font-size: 18px;
+    border-collapse: collapse;
+}
+
+td, th, tr{
+    border: 1px solid black;
+    padding: 0px 8px;
+}
+
+.tabela tr:first-child{
+    background-color: steelblue;
+}
+
+.tabela tr:nth-child(2n+1){
+    background-color: #b3b1b1;
+}
+
+ul, ol{
+    list-style: circle;
+}
