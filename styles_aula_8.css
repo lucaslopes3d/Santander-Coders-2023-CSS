@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.img-capa{
+    display: flex;
+    justify-content: center;
+}
+
+.tabela{
+    border: 2px solid black;
+}
+
+td, th{
+    border: 2px solid black;
+}
